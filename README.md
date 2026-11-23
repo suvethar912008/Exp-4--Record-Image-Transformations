@@ -32,9 +32,9 @@ Create rotation matrices for: 45° rotation 90° rotation Use cv2.getRotationMat
 
 # Program
 
-Developed By: Name: Rasiga S
+Developed By: Name: Suvetha R
 
-Register No: 212225220081
+Register No: 212225220113
 
 # Step 1 Original Image and Image Translation
 ```
